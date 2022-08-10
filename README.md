@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ujal-b
+- 👋 Hi, I’m kingujjwol.
 - 👀 I’m interested in fullstack development and testing.
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on venture 
+- 🌱 I’m currently learning coding.
+- 💞️ I’m looking to collaborate on venture. 
 - 📫 How to reach me      email:kingujjwol77@gmail.com 
 - 
 
